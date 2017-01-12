@@ -1,4 +1,7 @@
 bmp
 ===
 
-BMP files IO (little library I wrote back in '09)
+BMP files IO
+
+forked from [esneider](https://github.com/esneider/bmp), all credits go to him
+
