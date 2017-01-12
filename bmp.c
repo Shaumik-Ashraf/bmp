@@ -10,6 +10,7 @@
 #include "bmp.h"
 
 
+
 #define size_header()  (uint32_t)default_info.offset_data
 #define size_data(width, height) (uint32_t)((height) * ((width)*3 + (width)%4))
 #define size_bmp(width, height)  (size_header() + size_data(width, height))

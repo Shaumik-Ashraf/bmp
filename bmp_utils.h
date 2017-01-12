@@ -2,10 +2,12 @@
  * @file utils.h
  *
  * @author Dario Sneidermanis
+ *
+ * edited by Shaumik Ashraf
  */
 
-#ifndef _UTILS_H_
-#define _UTILS_H_
+#ifndef _BMP_UTILS_H_
+#define _BMP_UTILS_H_
 
 
 typedef unsigned int uint;

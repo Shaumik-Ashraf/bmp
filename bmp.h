@@ -8,7 +8,7 @@
 #define _BMP_H_
 
 #include <stdint.h>
-#include "utils.h"
+#include "bmp_utils.h"
 
 
 typedef struct {
